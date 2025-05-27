@@ -27,7 +27,7 @@
     Gasp:
       collection: MaleGasp
     Warcry:
-      collection: MaleWarcry
+      collection: MaleWarCry
     DefaultDeathgasp:
       collection: MaleDeathGasp
 
@@ -49,6 +49,6 @@
     Gasp:
       collection: FemaleGasp
     Warcry:
-      collection: FemaleWarcry
+      collection: FemaleWarCry
     DefaultDeathgasp:
       collection: FemaleDeathGasp
