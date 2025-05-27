@@ -30,6 +30,8 @@
       collection: MaleSigh
     Crying:
       collection: MaleCry
+    WarCry:
+      collection: MaleWarCry
     Whistle:
       collection: Whistles
     Weh:
@@ -72,6 +74,8 @@
       collection: FemaleSigh
     Crying:
       collection: FemaleCry
+    WarCry:
+      collection: FemaleWarCry
     Whistle:
       collection: Whistles
     Weh:
