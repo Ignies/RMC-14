@@ -26,6 +26,8 @@
       collection: MaleCry
     Gasp:
       collection: MaleGasp
+    Warcry:
+      collection: MaleWarCry
     DefaultDeathgasp:
       collection: MaleDeathGasp
 
